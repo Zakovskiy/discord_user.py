@@ -1,5 +1,5 @@
 # discord_user.py
-Discord User API Library 
+Discord User API on Python 
 
 # Install
 ```
