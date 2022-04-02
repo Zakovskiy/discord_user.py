@@ -3,14 +3,14 @@ Discord User API on Python
 
 # Install
 ```
-git clone https://github.com/Zakovskiy/discord_user.py
+pip3 install discord_user.py
 ```
 
 # Import and Auth
 ```python
-import discorduser
+from discord_user import discord_user
 
-DS = discorduser.Client("your email", "your password");
+DS = discord_user.Client("your email", "your password")
 ```
 
 ### [Telegram](https://t.me/zakovskiy)
